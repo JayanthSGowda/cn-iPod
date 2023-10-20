@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/iPod/static/css/main.2493cc11.css",
-    "main.js": "/iPod/static/js/main.30b25faf.js",
-    "static/media/Post Malone - White Iverson.mp3": "/iPod/static/media/Post Malone - White Iverson.0c63ed238dd2ca8574e2.mp3",
-    "static/media/Sigrid - High Five.mp3": "/iPod/static/media/Sigrid - High Five.0e42a243a4923db61ce1.mp3",
-    "static/media/Rick Astley - Never Gonna Give You Up.mp3": "/iPod/static/media/Rick Astley - Never Gonna Give You Up.4e16c696958aa0b4146a.mp3",
-    "static/media/Khalid - Young Dumb Broke.mp3": "/iPod/static/media/Khalid - Young Dumb Broke.a7f6f69045371a114377.mp3",
-    "static/media/John Denver - Country Roads.mp3": "/iPod/static/media/John Denver - Country Roads.01643f6558b6d6fabdf0.mp3",
-    "static/media/Post Malone - White Iverson.png": "/iPod/static/media/Post Malone - White Iverson.8a8b4a96f6f345b41e97.png",
-    "static/media/Never Gonna Give You Up.png": "/iPod/static/media/Never Gonna Give You Up.aeb1f99459b9f38ca99b.png",
-    "static/media/Sigrid - High Five.png": "/iPod/static/media/Sigrid - High Five.19fd2e5c0656f9c96b82.png",
-    "static/media/wallpaper3.jpg": "/iPod/static/media/wallpaper3.73839d47fbfd4a4289aa.jpg",
-    "static/media/wallpaper1.jpg": "/iPod/static/media/wallpaper1.0d02cba1dc0882989077.jpg",
-    "static/media/Khalid - Young Dumb Broke.jpg": "/iPod/static/media/Khalid - Young Dumb Broke.38894801ab20be8c637c.jpg",
-    "static/media/John Denver - Country Roads.jpg": "/iPod/static/media/John Denver - Country Roads.fbd20a4186e3c1ad8d16.jpg",
-    "static/media/music.jpg": "/iPod/static/media/music.c385231b4bfe0891cc99.jpg",
-    "static/media/game.jpg": "/iPod/static/media/game.32ff27ff819ba9aac52d.jpg",
-    "static/media/settings.png": "/iPod/static/media/settings.9bc43f25a527271f7965.png",
-    "static/media/wallpaper2.jpg": "/iPod/static/media/wallpaper2.f7623c91d1eafa558274.jpg",
-    "index.html": "/iPod/index.html",
-    "main.2493cc11.css.map": "/iPod/static/css/main.2493cc11.css.map",
-    "main.30b25faf.js.map": "/iPod/static/js/main.30b25faf.js.map"
+    "main.css": "/cn-iPod/static/css/main.2493cc11.css",
+    "main.js": "/cn-iPod/static/js/main.6ad809d8.js",
+    "static/media/Post Malone - White Iverson.mp3": "/cn-iPod/static/media/Post Malone - White Iverson.0c63ed238dd2ca8574e2.mp3",
+    "static/media/Sigrid - High Five.mp3": "/cn-iPod/static/media/Sigrid - High Five.0e42a243a4923db61ce1.mp3",
+    "static/media/Rick Astley - Never Gonna Give You Up.mp3": "/cn-iPod/static/media/Rick Astley - Never Gonna Give You Up.4e16c696958aa0b4146a.mp3",
+    "static/media/Khalid - Young Dumb Broke.mp3": "/cn-iPod/static/media/Khalid - Young Dumb Broke.a7f6f69045371a114377.mp3",
+    "static/media/John Denver - Country Roads.mp3": "/cn-iPod/static/media/John Denver - Country Roads.01643f6558b6d6fabdf0.mp3",
+    "static/media/Post Malone - White Iverson.png": "/cn-iPod/static/media/Post Malone - White Iverson.8a8b4a96f6f345b41e97.png",
+    "static/media/Never Gonna Give You Up.png": "/cn-iPod/static/media/Never Gonna Give You Up.aeb1f99459b9f38ca99b.png",
+    "static/media/Sigrid - High Five.png": "/cn-iPod/static/media/Sigrid - High Five.19fd2e5c0656f9c96b82.png",
+    "static/media/wallpaper3.jpg": "/cn-iPod/static/media/wallpaper3.73839d47fbfd4a4289aa.jpg",
+    "static/media/wallpaper1.jpg": "/cn-iPod/static/media/wallpaper1.0d02cba1dc0882989077.jpg",
+    "static/media/Khalid - Young Dumb Broke.jpg": "/cn-iPod/static/media/Khalid - Young Dumb Broke.38894801ab20be8c637c.jpg",
+    "static/media/John Denver - Country Roads.jpg": "/cn-iPod/static/media/John Denver - Country Roads.fbd20a4186e3c1ad8d16.jpg",
+    "static/media/music.jpg": "/cn-iPod/static/media/music.c385231b4bfe0891cc99.jpg",
+    "static/media/game.jpg": "/cn-iPod/static/media/game.32ff27ff819ba9aac52d.jpg",
+    "static/media/settings.png": "/cn-iPod/static/media/settings.9bc43f25a527271f7965.png",
+    "static/media/wallpaper2.jpg": "/cn-iPod/static/media/wallpaper2.f7623c91d1eafa558274.jpg",
+    "index.html": "/cn-iPod/index.html",
+    "main.2493cc11.css.map": "/cn-iPod/static/css/main.2493cc11.css.map",
+    "main.6ad809d8.js.map": "/cn-iPod/static/js/main.6ad809d8.js.map"
   },
   "entrypoints": [
     "static/css/main.2493cc11.css",
-    "static/js/main.30b25faf.js"
+    "static/js/main.6ad809d8.js"
   ]
 }
